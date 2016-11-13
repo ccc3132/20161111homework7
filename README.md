@@ -1,15 +1,11 @@
-
-
-
-<img src = "https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camara/Screenshot_1479028431.png?raw=true" width=200>
-<br><br><br>
-<font size=50>더하기결과</font>
-<img src = "https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camara/Screenshot_1479028437.png?raw=true" width=200>
-<br><br><br>
-<font size=50>빼기결과</font>
-<img src = "https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camara/Screenshot_1479028439.png?raw=true" width=200>
-<br><br><br>
-<font size=50>곱하기결과</font>
-<img src = "https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camara/Screenshot_1479028443.png?raw=true" width=200>
-<br><br><Br>
-<font size=50>나누기결과</font>
+<H3>더하기결과</H3>
+https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camera/Screenshot_1479030547.png?raw=true
+<br><bR><br><br><BR>
+<H3>빼기결과</H3>
+https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camera/Screenshot_1479030552.png?raw=true
+<br><bR><br><br><BR>
+<H3>곱하기결과</H3>
+https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camera/Screenshot_1479030561.png?raw=true
+<br><bR><br><br><BR>
+<H3>나누기결과</H3>
+https://github.com/ccc3132/20161111homework7/blob/master/app/src/main/java/com/example/ss/myapplication/camera/Screenshot_1479030568.png?raw=true
